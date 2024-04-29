@@ -1,0 +1,67 @@
+species,genus,family,N,diseased,dead,study
+Acropora palmata,Acropora,Acroporidae,410,4,0,ES
+Acropora cervicornis,Acropora,Acroporidae,7,0,0,ES
+Agaricia lamarcki,Agaricia,Agariciidae,42,3,0,AF
+Agaricia agaricites,Agaricia,Agariciidae,4385,216,19,AF
+Agaricia tenuifolia,Agaricia,Agariciidae,517,13,0,AF
+Agaricia humilis,Agaricia,Agariciidae,85,1,0,AF
+Agaricia fragilis,Agaricia,Agariciidae,11,0,0,AF
+Agaricia undata,Agaricia,Agariciidae,3,0,0,AF
+Agaricia tenuifolia,Agaricia,Agariciidae,55,9,2,ES
+,Agaricia,Agariciidae,2055,164,40,ES
+Colpophyllia natans,Colpophyllia,Faviidae,75,16,2,AF
+Colpophyllia natans,Colpophyllia,Faviidae,1,1,1,ES
+Dendrogyra cylindrus,Dendrogyra,Meandrinidae,7,5,0,AF
+Dichocoenia stokesii,Dichocoenia,Meandrinidae,61,11,4,AF
+Dichocoenia stokesii,Dichocoenia,Meandrinidae,22,9,8,ES
+Diploria labyrinthiformis,Diploria,Faviidae,88,22,7,AF
+Diploria labyrinthiformis,Diploria,Faviidae,8,5,3,ES
+Eusmilia fastigiata,Eusmilia,Meandrinidae,158,53,22,AF
+Eusmilia fastigiata,Eusmilia,Meandrinidae,83,52,31,ES
+Favia fragum,Favia,Faviidae,57,7,4,AF
+Favia fragum,Favia,Faviidae,4,0,0,ES
+Helioseris cucullata,Helioseris,Agariciidae,68,3,0,AF
+Helioseris cucullata,Helioseris,Agariciidae,15,3,0,ES
+Isophyllia rigida,Isophyllia,Faviidae,34,3,2,AF
+Isophyllia sinuosa,Isophyllia,Faviidae,13,0,0,AF
+,Isophyllia,Faviidae,5,0,0,AF
+,Isophyllia,Faviidae,11,2,0,ES
+Madracis auretenra,Madracis,Pocilloporidae,24,0,0,AF
+Madracis decactis,Madracis,Pocilloporidae,75,0,0,AF
+Madracis decactis,Madracis,Pocilloporidae,33,1,1,ES
+Manicina areolata,Manicina,Faviidae,6,0,0,AF
+Manicina areolata,Manicina,Faviidae,1,0,0,ES
+Meandrina meandrites,Meandrina,Meandrinidae,222,85,66,AF
+,Meandrina,Meandrinidae,43,42,41,ES
+Montastraea cavernosa,Montastraea,Montastraeidae,857,193,42,AF
+Montastraea cavernosa,Montastraea,Montastraeidae,154,78,51,ES
+Mussa angulosa,Mussa,Faviidae,1,0,0,AF
+,Mycetophyllia,Faviidae,36,6,4,AF
+Mycetophyllia aliciae,Mycetophyllia,Faviidae,4,0,0,AF
+Mycetophyllia daniana,Mycetophyllia,Faviidae,2,0,0,AF
+Mycetophyllia ferox,Mycetophyllia,Faviidae,1,0,0,AF
+Mycetophyllia lamarckiana,Mycetophyllia,Faviidae,25,0,0,AF
+,Mycetophyllia,Faviidae,18,4,3,ES
+Orbicella faveolata,Orbicella,Merulinidae,443,72,2,AF
+Orbicella annularis,Orbicella,Merulinidae,292,31,0,AF
+Orbicella franksi,Orbicella,Merulinidae,54,5,2,AF
+Orbicella annularis,Orbicella,Merulinidae,51,13,1,ES
+Orbicella faveolata,Orbicella,Merulinidae,4,1,0,ES
+Orbicella franksi,Orbicella,Merulinidae,17,0,0,ES
+Porites astreoides,Porites,Poritidae,3606,87,14,AF
+Porites furcata,Porites,Poritidae,98,2,1,AF
+Porites porites,Porites,Poritidae,874,6,0,AF
+Porites divaricata,Porites,Poritidae,143,0,0,AF
+Porites astreoides,Porites,Poritidae,845,15,7,ES
+Pseudodiploria strigosa,Pseudodiploria,Faviidae,678,275,125,AF
+Pseudodiploria clivosa,Pseudodiploria,Faviidae,32,1,1,AF
+Pseudodiploria strigosa,Pseudodiploria,Faviidae,35,24,19,ES
+,Scolymia,Faviidae,8,0,0,AF
+,Scolymia,Faviidae,3,0,0,ES
+Siderastrea siderea,Siderastrea,Rhizangiidae,2367,617,72,AF
+Siderastrea siderea,Siderastrea,Rhizangiidae,451,139,25,ES
+Siderastrea radians,Siderastrea,Rhizangiidae,13,0,0,ES
+Solenastrea bournoni,Solenastrea,Faviidae,5,0,0,AF
+Solenastrea bournoni,Solenastrea,Faviidae,2,0,0,ES
+Stephanocoenia intersepta,Stephanocoenia,Astrocoeniidae,332,13,1,AF
+Stephanocoenia intersepta,Stephanocoenia,Astrocoeniidae,28,2,0,ES
