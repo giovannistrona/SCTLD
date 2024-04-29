@@ -5,7 +5,7 @@ a<-a[ok,]
 
 a<-data.frame(a)
 
-pdf('new_weighted_metrics_ok.pdf',height=8,width=8)
+pdf('weighted_vs_unweighted_metrics.pdf',height=8,width=8)
 par(mfrow=c(2,2))
 
 r2<-round(cor.origin(a$II,a$I_c)**2,2)
